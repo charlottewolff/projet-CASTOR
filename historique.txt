@@ -1,0 +1,17 @@
+C:/Users/cwolff/Desktop/moindre_carre/CASTOR/donnees/Pontdeuxtraveesmomentamitravee1_L=5m.inf
+C:/Users/cwolff/Desktop/moindre_carre/CASTOR/TestTRAFIC.csv
+1.0
+80
+10.0
+1000.0
+10.0
+2000.0
+50
+130
+1.0
+1000.0
+1.0
+1000.0
+2
+8
+['effet', 'vitesse', 'poids', 'poidsEssieu', 'nombreEssieu', 'longueur', 'longueurEssieu', 'temps']
